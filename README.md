@@ -9,20 +9,21 @@ A web based chat application, this is a real-time chat application built using P
 
 # Screen Shots
 ## 1. Login Page:-
-![Screenshot 2023-07-18 at 21-28-16 ChatLink - Login](https://github.com/dipesh888/ChatLink/assets/127949337/282c7d61-204b-4791-9a5b-b5cb9d3aa193)
+![Screenshot_20230718_212727](https://github.com/Dipesh-ghiyal7/ChatLink/assets/140740031/60dde5ce-43de-4968-bf67-5a54d8692ab5)
 <br/>
 ## 2. Sign-Up Page:-
-![Screenshot 2023-07-18 at 21-28-37 ChatLink - Sign Up](https://github.com/dipesh888/ChatLink/assets/127949337/155eb63e-664e-443f-a799-23b8f5c017f5)
+![Screenshot 2023-07-18 at 21-28-37 ChatLink - Sign Up](https://github.com/Dipesh-ghiyal7/ChatLink/assets/140740031/85bd94d7-eff1-4b96-94a6-8df633732e17)
 
 
 
 ## 3. Home Page:-
-![Screenshot 2023-07-18 at 21-28-59 ChatLink - Home](https://github.com/dipesh888/ChatLink/assets/127949337/6aa1152f-1476-416c-a2a0-8c08e0eb0999)
+![Screenshot 2023-07-18 at 21-28-59 ChatLink - Home](https://github.com/Dipesh-ghiyal7/ChatLink/assets/140740031/22222c4c-f12a-4561-8aed-98e3049de986)
 
 
 
 ## 4. Chat Page:-
-![Screenshot 2023-07-18 at 21-29-08 ChatLink - Chat](https://github.com/dipesh888/ChatLink/assets/127949337/2b17be4a-622c-4717-89fd-6e8209ecf79e)
+![Screenshot 2023-07-27 at 22-24-12 ChatLink - Chat](https://github.com/Dipesh-ghiyal7/ChatLink/assets/140740031/ddeaf78a-e924-458f-a778-d422bacc8863)
+
 
 # Database Installastion:-
   * <strong> STEP-1:- </strong> Download ChatLink.sql file in to your local device.
